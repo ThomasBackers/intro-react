@@ -1,0 +1,29 @@
+li {
+    border: 3px solid $primary-color;
+    border-radius: 20px;
+    padding: 0.75rem 2.25rem 0.75rem 0.75rem;
+    margin: 1rem 0;
+    display: flex;
+    box-shadow: 4px 6px 2px 0px rgba(72,202,228,0.19);
+    input {
+        min-width: 1.2rem;
+        min-height: 1.2rem;
+        max-width: 1.2rem;
+        max-height: 1.2rem;
+        border-radius: 50%;
+        box-sizing: border-box;
+        border: 2px solid $secondary-color;
+        cursor: pointer;
+        margin-right: 0.6rem;
+    }
+    label {
+        margin: 0 auto;
+        max-height: 2.3rem;
+        overflow: scroll;
+        &::-webkit-scrollbar {
+            display: none;
+        }
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+}
