@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/thomasbackers.github.io/intro-react/static/css/main.48976b1c.chunk.css",
-    "main.js": "/thomasbackers.github.io/intro-react/static/js/main.7a9a6c9a.chunk.js",
-    "main.js.map": "/thomasbackers.github.io/intro-react/static/js/main.7a9a6c9a.chunk.js.map",
-    "runtime-main.js": "/thomasbackers.github.io/intro-react/static/js/runtime-main.ec200e25.js",
-    "runtime-main.js.map": "/thomasbackers.github.io/intro-react/static/js/runtime-main.ec200e25.js.map",
-    "static/js/2.9a206a1b.chunk.js": "/thomasbackers.github.io/intro-react/static/js/2.9a206a1b.chunk.js",
-    "static/js/2.9a206a1b.chunk.js.map": "/thomasbackers.github.io/intro-react/static/js/2.9a206a1b.chunk.js.map",
-    "index.html": "/thomasbackers.github.io/intro-react/index.html",
-    "static/css/main.48976b1c.chunk.css.map": "/thomasbackers.github.io/intro-react/static/css/main.48976b1c.chunk.css.map",
-    "static/js/2.9a206a1b.chunk.js.LICENSE.txt": "/thomasbackers.github.io/intro-react/static/js/2.9a206a1b.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.48976b1c.chunk.css",
+    "main.js": "./static/js/main.7a9a6c9a.chunk.js",
+    "main.js.map": "./static/js/main.7a9a6c9a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.882e40ad.js",
+    "runtime-main.js.map": "./static/js/runtime-main.882e40ad.js.map",
+    "static/js/2.9a206a1b.chunk.js": "./static/js/2.9a206a1b.chunk.js",
+    "static/js/2.9a206a1b.chunk.js.map": "./static/js/2.9a206a1b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.48976b1c.chunk.css.map": "./static/css/main.48976b1c.chunk.css.map",
+    "static/js/2.9a206a1b.chunk.js.LICENSE.txt": "./static/js/2.9a206a1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec200e25.js",
+    "static/js/runtime-main.882e40ad.js",
     "static/js/2.9a206a1b.chunk.js",
     "static/css/main.48976b1c.chunk.css",
     "static/js/main.7a9a6c9a.chunk.js"
